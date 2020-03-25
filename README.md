@@ -1,2 +1,3 @@
 # react-element
-My first React repository
+
+My first React repository showing a React element
