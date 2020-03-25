@@ -2,7 +2,7 @@
 
 My first React repository showing a React element
 
-So whats a React element?
+So whats a React element? React element is the smallest building block of a React app
 
 A React Element is what gets returned from components. It's an object that virtually describes the DOM node that a component represents
 
